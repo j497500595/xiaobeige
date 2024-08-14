@@ -1,7 +1,7 @@
 ---
 title: 影视仓
 description: 观影app,需添加下方播放源
-slug: hello-world
+slug: 影视仓
 date: 2024-08-14 16:07:00+0000
 categories:
     - 安卓

@@ -1,7 +1,7 @@
 ---
 title: GKD
 description: 安卓跳过广告app
-slug: hello-world
+slug: GKD
 date: 2024-08-14 16:08:00+0000
 categories:
     - 安卓
